@@ -12,7 +12,7 @@ Malware-free flashlight app, motivated by [this video](https://www.youtube.com/w
 ## Installation
 
     git clone https://github.com/pilwon/flashlight.git flashlight && cd $_
-    cordova platform add android && git add . && git commit -m "Added android platform."
+    cordova platform add android
     cordova plugin add https://github.com/EddyVerbruggen/Flashlight-PhoneGap-Plugin.git
     bower install
 
