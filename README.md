@@ -2,6 +2,8 @@
 
 Malware-free flashlight app, motivated by [this video](https://www.youtube.com/watch?v=Q8xz8xKEFvU).
 
+* Pre-built Android app: [Flashlight.apk](https://github.com/pilwon/flashlight-app/blob/master/releases/Flashlight.apk)
+
 ## Dependencies
 
 * [Bower](http://bower.io)
