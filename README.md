@@ -18,7 +18,7 @@ Malware-free flashlight app, motivated by [this video](https://www.youtube.com/w
 
 ## Usage
 
-    cordova run android  # run on device
+    cordova run android      # run on device
     cordova build --release  # release build
     # platforms/android/ant-build/CordovaApp-release-unsigned.apk
 
