@@ -1,0 +1,9 @@
+{
+  "name": "flashlight",
+  "version": "0.1.0",
+  "dependencies": {
+    "famous": "~0.3.0",
+    "requirejs": "~2.1.15",
+    "fastclick": "~1.0.3"
+  }
+}
