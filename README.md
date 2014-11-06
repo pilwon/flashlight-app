@@ -2,6 +2,11 @@
 
 Malware-free flashlight app, motivated by [this video](https://www.youtube.com/watch?v=Q8xz8xKEFvU).
 
+## Dependencies
+
+* [Bower](http://bower.io)
+* [Cordova](http://cordova.apache.org)
+
 ## Installation
 
     git clone https://github.com/pilwon/flashlight.git flashlight && cd $_
